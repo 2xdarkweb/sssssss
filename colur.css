@@ -1,9 +1,5 @@
-html {
-    font-size: 15px;
-
+<style>
+p {
+  background-image: url('img_girl.jpg');
 }
-
-body {
-  background-color: #333;
-  color: whitesmoke;
-}
+</style>

@@ -1,5 +1,9 @@
-<style>
-p {
-  background-image: url('backgrund.jpg');
+html {
+    font-size: 15px;
+
 }
-</style>
+
+body {
+  background-color: #333;
+  color: whitesmoke;
+}
